@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Put your api key here:
+    (from http://data.bordeaux-metropole.fr/key)
+    <string name="bordeaux_key">KEY</string>
+
+    (from https://developer.jcdecaux.com/)
+    <string name="jcdecaux_key">API KEY</string>
+    -->
+</resources>

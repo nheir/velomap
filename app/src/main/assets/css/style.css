@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: white;
+}
+html, body, #map {
+    height: 100%;
+}
+.control-maj {
+	font: bold 18px 'Lucida Console', Monaco, monospace;
+	text-indent: 1px;
+}
+
+.station-name {
+	font-weight: bold;
+}
+.station-available-bikes, .station-available-stands {
+	font-weight: bold;
+	text-align: center;
+	width: 50%;
+	line-height: 1;
+}
+.station-available-bikes .count, .station-available-stands .count{
+	font-size: 22px;
+}
+.station-available-bikes {
+	color: green;
+	float: left;
+}
+.station-available-stands {
+	color: red;
+	float: right;
+}
