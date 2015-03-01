@@ -12,6 +12,12 @@ Le code est basé sur celui de l'appli web [velimonde](https://github.com/gapato
 - [ ] Compacter les codes redondants javascript pour une intégration plus facile d'autres villes.
 - [ ] Stations préférées et/ou liste des stations ?
 
+### Utilisation
+
+Avant de compiler cette application, vous devez indiquer les clés API qui vous permettront d'utiliser les divers sources de données dans le fichier [apikeys.sampl.xml](/app/src/main/res/values/apikeys.sample.xml)
+
+Une fois dans VéloMap, vous pouvez zoomer, déplacer la carte, mettre à jour les données (via le 3e bouton) et voir le nombre de vélos et de places disponibles en appuyant sur une station. Appuyer sur le bouton menu pour changer de ville.
+
 ### Licence
 
 Cette application est sous license [WTFPL](http://www.wtfpl.net/txt/copying/)
