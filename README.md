@@ -1,8 +1,8 @@
 ## VéloMap
 
-VéloMap est une application Android dédiés aux utilisateurs des vélos libres services de Lyon et Bordeaux.
+VéloMap est une application Android dédiée aux utilisateurs des vélos libres services de Lyon et Bordeaux.
 
-Cette application a été motivé par l'abscence d'application Vélov (Lyon) fonctionnant sans l'api de Google. 
+Cette application a été motivée par l'abscence d'application Vélov (Lyon) fonctionnant sans l'api de Google. 
 
 Le code est basé sur celui de l'appli web [velimonde](https://github.com/gapato/velimonde).
 
@@ -10,6 +10,7 @@ Le code est basé sur celui de l'appli web [velimonde](https://github.com/gapato
 
 - [x] Avec l'ajout des VCUB de Bordeaux, il faut récupérer les données sous format XML ce qui ne peut pas se faire en javascript. Donc la récupération des données se fait par l'application et non plus par le code javascript de la webview.
 - [ ] Compacter les codes redondants javascript pour une intégration plus facile d'autres villes.
+- [ ] Stations préférées et/ou liste des stations ?
 
 ### Licence
 
